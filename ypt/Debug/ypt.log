@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  a.cpp
+c:\users\user\source\repos\ypt\ypt\a.cpp(25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\user\source\repos\ypt\ypt\a.cpp(26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\user\source\repos\ypt\ypt\a.cpp(27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\user\source\repos\ypt\ypt\a.cpp(28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ypt.cpp
+  正在生成代码...
+opencv_world342d.lib(opencv_world342d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突
